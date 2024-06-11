@@ -100,7 +100,8 @@ echo "#!/bin/bash
 touch ~/.hushlogin
 apt update && apt upgrade -y
 apt install apt-utils dialog nano -y
-apt wget https://raw.githubusercontent.com/bjendaik/ubuntutermux/main/install.sh ; chmod +x install.sh ; ./install.sh
+apt install wget -y
+wget https://raw.githubusercontent.com/bjendaik/ubuntutermux/main/xfce.sh ; chmod +x xfce.sh ; ./xfce.sh
 cp /etc/skel/.bashrc .
 rm -rf ~/.bash_profile
 exit" > $folder/root/.bash_profile
