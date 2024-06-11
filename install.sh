@@ -108,6 +108,7 @@ exit" > $folder/root/.bash_profile
 bash $linux
    clear
    echo ""
-   echo "Bây giờ bạn có thể khởi động Ubuntu bằng tập lệnh 'ubuntu' vào lần tới"
+   echo "Bây giờ bạn có thể khởi động Ubuntu"
+   echo "bằng lệnh 'ubuntu' vào lần tới"
    echo ""
 #rm ubuntu23.10.sh
