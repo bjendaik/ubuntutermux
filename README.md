@@ -45,7 +45,7 @@ Các lệnh cơ bản Ubuntu
 > apt -h : Giúp tất cả các lệnh.
 
 ---
-## Desktop Environment
+## Môi trường máy tính để bàn
 
 trên Ubuntu, chạy lệnh này :
 
