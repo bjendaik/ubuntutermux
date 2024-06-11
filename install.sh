@@ -106,7 +106,7 @@ cp /etc/skel/.bashrc .
 rm -rf ~/.bash_profile
 exit" > $folder/root/.bash_profile
 bash $linux
-   #clear
+   clear
    echo ""
    echo "Bây giờ bạn có thể khởi động Ubuntu bằng tập lệnh 'ubuntu' vào lần tới"
    echo ""
