@@ -84,7 +84,7 @@ Thêm (+) VNC Client để kết nối, điền:
 localhost:1
 ```
 
-Name
+Tên
 ```
 Ubuntu Desktop
 ```
