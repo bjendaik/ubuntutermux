@@ -111,4 +111,8 @@ bash $linux
    echo "Bây giờ bạn có thể khởi động Ubuntu"
    echo "bằng lệnh 'ubuntu' vào lần tới"
    echo ""
+   echo "Địa chỉ máy chủ Vnc sẽ chạy ở 127.0.0.1:5901"
+   echo "Khởi động Vnc Server, chạy vnc-start"
+   echo "Dừng máy chủ Vnc, chạy vnc-stop"
+   echo ""
 #rm ubuntu23.10.sh
