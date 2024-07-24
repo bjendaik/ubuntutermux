@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-pkg update; pkg upgrand
+pkg update; pkg upgrand -y
 pkg install root-repo x11-repo
 pkg install proot pulseaudio -y
 termux-setup-storage
@@ -115,4 +115,4 @@ bash $linux
    echo "Khởi động Vnc Server, chạy vnc-start"
    echo "Dừng máy chủ Vnc, chạy vnc-stop"
    echo ""
-#rm ubuntu23.10.sh
+rm install.sh
