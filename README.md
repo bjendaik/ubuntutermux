@@ -13,7 +13,7 @@
 
 Sao chép và dán lệnh này vào Termux:
 </br>
-<summary><b><code>Install Ubuntu</code></b></summary>
+<summary><b><code>Cài Ubuntu</code></b></summary>
 
 * Ubuntu 24.04 (Noble Numbat)
 ```
@@ -47,15 +47,9 @@ Các lệnh cơ bản Ubuntu
 ---
 ## Môi trường máy tính để bàn
 
-trên Ubuntu, chạy lệnh này :
-
 </br>
-<summary><b><code>Cài đặt Desktop Xfce</code></b></summary>
+<summary><b><code>Desktop Xfce</code></b></summary>
 <p align="center"><img src="https://raw.githubusercontent.com/wahasa/Ubuntu/main/Images/xfce.jpg"</p>
-
-```
-apt install wget -y ; wget https://raw.githubusercontent.com/bjendaik/ubuntutermux/main/xfce.sh ; chmod +x xfce.sh ; ./xfce.sh
-```
 
 ---
 Tính năng
